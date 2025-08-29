@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# Data outputs
+outputs/
+
+# Node & misc
+node_modules/
+dist/
+*.log

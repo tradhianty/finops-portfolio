@@ -1,0 +1,5 @@
+team,cost_center,subsidiary,allocation_weight
+Marketplace,CC-MKT,SubsidiaryA,0.4
+Payments,CC-PAY,SubsidiaryB,0.3
+Search,CC-SRC,SubsidiaryC,0.2
+DataPlatform,CC-DP,SubsidiaryD,0.1

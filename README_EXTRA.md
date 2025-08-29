@@ -1,0 +1,2 @@
+New files added: aws_cur_sample.csv, org_mapping.csv, models/allocate_costs.sql, scripts/duckdb_load_and_transform.py.
+Run `python scripts/duckdb_load_and_transform.py` after installing duckdb (pip install duckdb).

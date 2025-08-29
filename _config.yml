@@ -1,0 +1,8 @@
+title: "Tiara’s FinOps Portfolio"
+description: "Showcasing my FinOps projects, dashboards, and case studies"
+theme: jekyll-theme-cayman
+
+# Optional: add your GitHub + LinkedIn for footer links
+github:
+  is_project_page: false
+  is_user_page: false
